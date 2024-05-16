@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MusicPlay/images/音乐.png</file>
+        <file>MusicPlay/images/暂停.png</file>
+        <file>MusicPlay/images/播放.png</file>
+        <file>MusicPlay/images/播放中.png</file>
+        <file>MusicPlay/images/音乐-上一首.png</file>
+        <file>MusicPlay/images/音乐-下一首.png</file>
+        <file>MusicPlay/images/上一曲.png</file>
+        <file>MusicPlay/images/下一首.png</file>
+    </qresource>
+</RCC>
