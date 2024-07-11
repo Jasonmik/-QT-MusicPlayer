@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="scape">image_/OIP-C (1).jfif</file>
+        <file alias="sound">image_/sound.png</file>
+        <file alias="star">image_/star.png</file>
+        <file alias="silence">image_/silence.png</file>
+        <file>image_/audio-file.png</file>
+        <file alias="pause">image_/pause.png</file>
+        <file>image_/music-list.png</file>
+        <file>image_/music-rhythm.png</file>
+        <file>image_/pause1.png</file>
+        <file>image_/waves-left (1).png</file>
+        <file>image_/waves-right (1).png</file>
+        <file>image_/music-rhythm (1).png</file>
+        <file>image_/music-list (1).png</file>
+        <file>image_/_volume-notice (1).png</file>
+        <file>image_/audio-file (1).png</file>
+        <file>image_/speaker-one (1).png</file>
+        <file>image_/speaker-one.png</file>
+        <file alias="boy">image_/boy.gif</file>
+        <file alias="wave">image_/wave.gif</file>
+        <file alias="close">image_/close.png</file>
+        <file>image_/left (1).png</file>
+        <file>image_/left (2).png</file>
+        <file>image_/right (1).png</file>
+        <file>image_/right (2).png</file>
+        <file alias="delete">image_/delete-two.png</file>
+        <file alias="back1">image_/background1.gif</file>
+        <file alias="back2">image_/background2.gif</file>
+        <file alias="close1">image_/close1.png</file>
+        <file alias="back3">image_/background3.gif</file>
+        <file alias="back4">image_/background4.gif</file>
+        <file>image_/play-cycle.png</file>
+        <file>image_/play-order.png</file>
+        <file>image_/rand.png</file>
+        <file>image_/backGround1.png</file>
+        <file>image_/backGround2.png</file>
+        <file>image_/backGround3.png</file>
+        <file>image_/search.png</file>
+        <file>image_/picture.png</file>
+        <file>image_/min.png</file>
+        <file>image_/min1.png</file>
+        <file>image_/redo.png</file>
+        <file>image_/home.png</file>
+        <file>image_/denglu.png</file>
+        <file>image_/zhuce.png</file>
+        <file>image_/back.png</file>
+        <file>image_/creat_back.png</file>
+        <file>image_/like.png</file>
+        <file>image_/person.png</file>
+        <file>image_/loading.gif</file>
+        <file>image_/dislike.png</file>
+        <file>image_/windowicon.png</file>
+        <file>image_/reLike.png</file>
+        <file>image_/beijing.png</file>
+    </qresource>
+</RCC>

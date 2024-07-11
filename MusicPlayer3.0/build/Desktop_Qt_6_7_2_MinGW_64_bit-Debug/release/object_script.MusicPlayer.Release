@@ -1,0 +1,15 @@
+release/create.o
+release/database.o
+release/label_scroll.o
+release/login.o
+release/lyrics.o
+release/main.o
+release/soaring_list.o
+release/sparkdemo.o
+release/widget.o
+release/qrc_image.o
+release/moc_create.o
+release/moc_database.o
+release/moc_label_scroll.o
+release/moc_login.o
+release/moc_widget.o
